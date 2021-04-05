@@ -1,0 +1,161 @@
+/*
+ * Start Bootstrap - Logo Nav (http://startbootstrap.com/)
+ * Copyright 2013-2016 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
+ */
+
+body {
+    padding-top: 70px; /* Required padding for .navbar-fixed-top. Change if height of navigation changes. */
+}
+
+.navbar-fixed-top .nav {
+    padding: 15px 0;
+}
+
+.navbar-fixed-top .navbar-brand {
+    padding: 0 15px;
+    min-height: 90px;
+}
+
+@media(min-width:768px) {
+    body {
+        padding-top: 100px; /* Required padding for .navbar-fixed-top. Change if height of navigation changes. */
+    }
+
+    .navbar-fixed-top .navbar-brand {
+        padding: 15px 0;
+    }
+}
+
+.navbar-inverse {
+	background-color: #fff;
+	border-color: #6F1300;
+}
+
+.navbar-inverse .navbar-nav>li>a {
+    color: #6F1300;
+}
+
+.nav .navbar-nav > ul > li > a:focus{
+	color: #a44a4a;
+}
+
+.collapse .navbar-nav > li > a:hover, .collapse .navbar-nav > li > a:focus {
+    background-color: transparent;
+    color: #f44a4a;
+}
+
+.container .row .col-lg-12 >p{
+	max-width: 70%;
+	text-align: justify;
+	padding: 15px 0;
+}
+
+.container .row .col-lg-12 >h4{
+	max-width: 70%;
+	text-align: justify;
+	padding: 15px 0;
+}
+
+.row {
+	margin: auto;
+	min-height: 100%;
+}
+
+.manual-ufpe{
+	font-size: 10pt;
+	text-align: justify;
+	max-width: 70%;
+}
+
+.conteudo-programatico > li{
+	padding-top:6pt;
+	max-width: 70%;
+}
+
+.container .row .col-lg-12 >hr {
+	margin-left:0;
+	max-width: 70%;
+}
+
+.copyright{
+	text-align: center;
+	padding-top: 15px;
+	font-size: x-small;
+	position: relative;
+}
+
+.agenda {
+
+ }
+
+/* Dates */
+.agenda .agenda-date {  width: 120px; padding-top: 15px; }
+.agenda .agenda-date .dayofmonth {
+  width: 40px;
+  font-size: 36px;
+  line-height: 36px;
+  float: left;
+  text-align: right;
+  margin-right: 10px;
+}
+.agenda .agenda-date .shortdate {
+  font-size: 0.75em;
+}
+
+
+.agenda .agenda-exercicio {
+  display: table-cell;
+  vertical-align: top;
+  padding-left: 10px;
+  padding-top: 15px;
+  width: 250px;
+  text-align: left;
+  margin: 1px;
+}
+
+
+/* Events */
+.agenda .agenda-events {  }
+.agenda .agenda-event {
+  display: table-cell;
+  vertical-align: bottom;;
+  padding-left: 10px;
+  padding-top: 15px;
+  width: 410px;
+  text-align: left;
+  margin: 1px;
+}
+
+.agenda-row{
+  display: table-row;
+  vertical-align: bottom;
+  padding: 30px;
+  /*border: solid 1px #00FF00;*/
+  border-left: 0px;
+}
+
+
+.cell{
+  display: table-cell;
+  vertical-align: top;
+  padding-left: 10px;
+  padding-top: 15px;
+  /*width: 350px;*/
+  text-align: left;
+  margin: 1px;
+  /*border: solid 1px #FF0000;*/
+}
+
+.agenda-header{
+  text-align: left;
+  margin-left: 5px;
+  font-weight: bold;
+  padding: 15px;
+  border-bottom: solid 1px #d3d3d3;
+  border-top: solid 1px #d3d3d3;
+  font-size: 12pt;
+  /*
+  font-style: italic;
+  color: grey; */
+}
