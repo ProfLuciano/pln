@@ -1,7 +1,7 @@
 data,aula
 2021-05-24,<a href="https://github.com/ProfLuciano/pln/blob/main/slides/intro.pdf">Introdução ao curso</a>
 2021-05-26,<a href="https://github.com/ProfLuciano/pln/blob/main/slides/processamento_texto.pdf">Processamento de texto</a> | <a href="https://github.com/ProfLuciano/pln/blob/main/notebooks/Text_Processing.ipynb">Notebook</a>  
-2021-05-31, <a href="https://github.com/ProfLuciano/pln/blob/main/slides/intro_dl.pdf">Introdução a Redes Neurais</a> | <a href="https://github.com/ProfLuciano/pln/blob/main/notebooks/nn.ipynb">Notebook</a>  
+2021-05-31,<a href="https://github.com/ProfLuciano/pln/blob/main/slides/intro_dl.pdf">Introdução a Redes Neurais</a> | <a href="https://github.com/ProfLuciano/pln/blob/main/notebooks/nn.ipynb">Notebook</a>  
 2021-06-02, Representação de palavras
 2021-06-07, Deep Learning: Modelos sequenciais
 2021-06-09, Information Extraction
