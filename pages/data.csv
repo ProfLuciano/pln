@@ -4,7 +4,7 @@ data,aula
 2021-05-31,<a href="https://github.com/ProfLuciano/pln/blob/main/slides/intro_dl.pdf">Introdução a Redes Neurais</a> | <a href="https://github.com/ProfLuciano/pln/blob/main/notebooks/nn.ipynb">Notebook</a>  
 2021-06-02,<a href="https://github.com/ProfLuciano/pln/blob/main/slides/representation_learning.pdf">Representação de palavras</a> | <a href="https://github.com/ProfLuciano/pln/blob/main/notebooks/embeddings.ipynb">Notebook</a>  
 2021-06-07,<a href="https://github.com/ProfLuciano/pln/blob/main/slides/sequencial_models.pdf">Deep Learning: Modelos sequenciais</a> | <a href="https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/text/text_classification_rnn.ipynb">Notebook</a>  
-2021-06-09,<a href="https://github.com/ProfLuciano/pln/blob/main/slides/info_extraction.pdf">Information Extraction</a> | <a href="https://raw.githubusercontent.com/ProfLuciano/pln/main/notebooks/ner.ipynb">Notebook</a> 
+2021-06-09,<a href="https://github.com/ProfLuciano/pln/blob/main/slides/info_extraction.pdf">Information Extraction</a> | <a href="https://github.com/ProfLuciano/pln/blob/main/notebooks/ner.ipynb">Notebook</a> 
 2021-06-14, Chatbots
 2021-06-16, Word Senses
 2021-06-21, Sintaxe e parsing
