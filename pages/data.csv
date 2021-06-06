@@ -8,14 +8,14 @@ data,aula
 2021-06-14,Apresentação RASA e Acompanhamento
 2021-06-16,<a href="https://github.com/ProfLuciano/pln/blob/main/slides/info_extraction.pdf">Information Extraction</a> | <a href="https://github.com/ProfLuciano/pln/blob/main/notebooks/ner.ipynb">Notebook</a> 
 2021-06-21,<a href="https://github.com/ProfLuciano/pln/blob/main/slides/lang_modeling.pdf">Language modeling</a> | <a href="https://github.com/ProfLuciano/pln/blob/main/notebooks/lm.ipynb">Notebook</a> 
-2021-06-23,Modelos contextuais (BERT)
+2021-06-23,<a href="https://github.com/ProfLuciano/pln/blob/main/slides/mt.pdf">Machine Translation</a> 
 2021-06-28,Acompanhamento
-2021-06-30,Sintaxe e parsing
-2021-07-05,Word Senses
+2021-06-30,Modelos contextuais (BERT)
+2021-07-05,Sintaxe e parsing
 2021-07-07,Acompanhamento
 2021-07-12,Entrega do projeto 1
 2021-07-14,Resolução de co-referência
-2021-07-19,Machine Translation
+2021-07-19,Word Senses
 2021-07-21,Q&A
 2021-07-28,Acompanhamento
 2021-08-02,Acompanhamento
