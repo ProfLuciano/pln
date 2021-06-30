@@ -13,10 +13,12 @@ data,aula
 2021-07-05,<a href="https://github.com/ProfLuciano/pln/blob/main/slides/bert.pdf">Modelos contextuais (BERT)</a>
 2021-07-07,Acompanhamento 
 2021-07-12,<a href="https://github.com/ProfLuciano/pln/blob/main/slides/parsing.pdf">Parsing</a> 
-2021-07-14,<a href="https://github.com/ProfLuciano/pln/blob/main/slides/corref_resolution.pdf">Resolução de co-referência</a>
-2021-07-19,Acompanhamento (Checkpoint do projeto: classificador e extrator) 
+2021-07-14,Acompanhamento 
+2021-07-16,Checkpoint do projeto: classificador e extrator
+2021-07-19,<a href="https://github.com/ProfLuciano/pln/blob/main/slides/corref_resolution.pdf">Resolução de co-referência</a>
 2021-07-21,<a href="https://github.com/ProfLuciano/pln/blob/main/slides/qa.pdf">Q&A</a>
-2021-07-28,<a href="https://github.com/ProfLuciano/pln/blob/main/slides/text_generation.pdf">Geração Automática de Texto</a> | <a href="https://github.com/ProfLuciano/pln/blob/main/notebooks/text_generation.ipynb">Notebook</a>
+2021-07-26,<a href="https://github.com/ProfLuciano/pln/blob/main/slides/text_generation.pdf">Geração Automática de Texto</a> | <a href="https://github.com/ProfLuciano/pln/blob/main/notebooks/text_generation.ipynb">Notebook</a>
+2021-07-28,Acompanhamento
 2021-08-02,Acompanhamento
 2021-08-04,Acompanhamento
 2021-08-09,Acompanhamento
