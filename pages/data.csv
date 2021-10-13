@@ -5,15 +5,15 @@ data,aula
 2021-09-29,<a href="https://github.com/ProfLuciano/pln/blob/main/slides/representation_learning.pdf">Representação de palavras</a> | <a href="https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/keras/text_classification.ipynb">Notebook</a>  
 2021-10-04,<a href="https://github.com/ProfLuciano/pln/blob/main/slides/sequential_models.pdf">Deep Learning: Modelos sequenciais</a> | <a href="https://github.com/tensorflow/text/blob/master/docs/tutorials/text_classification_rnn.ipynb">Notebook</a>  
 2021-10-06,<a href="https://github.com/ProfLuciano/pln/blob/main/slides/chatbot.pdf">Chatbots</a> | <a href="https://github.com/ProfLuciano/pln/blob/main/slides/projeto.pdf">Projeto</a>
-2021-10-11,Apresentação RASA e Acompanhamento
-2021-10-13,<a href="https://github.com/ProfLuciano/pln/blob/main/slides/info_extraction.pdf">Information Extraction</a> | <a href="https://github.com/ProfLuciano/pln/blob/main/notebooks/ner.ipynb">Notebook</a> 
-2021-10-18,<a href="https://github.com/ProfLuciano/pln/blob/main/slides/lang_modeling.pdf">Language modeling</a> | <a href="https://github.com/ProfLuciano/pln/blob/main/notebooks/lm.ipynb">Notebook</a> 
-2021-10-20,Acompanhamento
-2021-10-25,<a href="https://github.com/ProfLuciano/pln/blob/main/slides/mt.pdf">Machine Translation</a> | <a href="https://www.tensorflow.org/text/tutorials/nmt_with_attention">Notebook</a> 
-2021-10-27,<a href="https://github.com/ProfLuciano/pln/blob/main/slides/bert.pdf">Modelos contextuais (BERT)</a>
-2021-11-01,Acompanhamento 
-2021-11-03,<a href="https://github.com/ProfLuciano/pln/blob/main/slides/parsing.pdf">Parsing</a> 
-2021-11-08,Acompanhamento 
+2021-10-11,Acompanhamento
+2021-10-13,Acompanhamento
+2021-10-18,<a href="https://github.com/ProfLuciano/pln/blob/main/slides/info_extraction.pdf">Information Extraction</a> | <a href="https://github.com/ProfLuciano/pln/blob/main/notebooks/ner.ipynb">Notebook</a> 
+2021-10-20,<a href="https://github.com/ProfLuciano/pln/blob/main/slides/lang_modeling.pdf">Language modeling</a> | <a href="https://github.com/ProfLuciano/pln/blob/main/notebooks/lm.ipynb">Notebook</a> 
+2021-10-25,Acompanhamento
+2021-10-27,<a href="https://github.com/ProfLuciano/pln/blob/main/slides/mt.pdf">Machine Translation</a> | <a href="https://www.tensorflow.org/text/tutorials/nmt_with_attention">Notebook</a> 
+2021-11-01,<a href="https://github.com/ProfLuciano/pln/blob/main/slides/bert.pdf">Modelos contextuais (BERT)</a>
+2021-11-03,Acompanhamento 
+2021-11-08,<a href="https://github.com/ProfLuciano/pln/blob/main/slides/parsing.pdf">Parsing</a> 
 2021-11-10,Checkpoint do projeto: classificador e extrator
 2021-11-17,<a href="https://github.com/ProfLuciano/pln/blob/main/slides/corref_resolution.pdf">Resolução de co-referência</a>
 2021-11-22,<a href="https://github.com/ProfLuciano/pln/blob/main/slides/qa.pdf">Q&A</a>
