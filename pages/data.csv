@@ -14,10 +14,10 @@ data,aula
 2021-11-01,<a href="https://github.com/ProfLuciano/pln/blob/main/slides/bert.pdf">Modelos contextuais (BERT)</a>
 2021-11-03,Acompanhamento 
 2021-11-08,<a href="https://github.com/ProfLuciano/pln/blob/main/slides/parsing.pdf">Parsing</a> 
-2021-11-10,Checkpoint do projeto: classificador e extrator
-2021-11-17,<a href="https://github.com/ProfLuciano/pln/blob/main/slides/corref_resolution.pdf">Resolução de co-referência</a>
-2021-11-22,<a href="https://github.com/ProfLuciano/pln/blob/main/slides/qa.pdf">Q&A</a>
-2021-11-24,<a href="https://github.com/ProfLuciano/pln/blob/main/slides/text_generation.pdf">Geração Automática de Texto</a> | <a href="https://github.com/ProfLuciano/pln/blob/main/notebooks/text_generation.ipynb">Notebook</a>
+2021-11-10,<a href="https://github.com/ProfLuciano/pln/blob/main/slides/corref_resolution.pdf">Resolução de co-referência</a> (Checkpoint do projeto: classificador e extrator)
+2021-11-17,<a href="https://github.com/ProfLuciano/pln/blob/main/slides/qa.pdf">Q&A</a>
+2021-11-22,<a href="https://github.com/ProfLuciano/pln/blob/main/slides/text_generation.pdf">Geração Automática de Texto</a> | <a href="https://github.com/ProfLuciano/pln/blob/main/notebooks/text_generation.ipynb">Notebook</a>
+2021-11-24,Acompanhamento
 2021-11-29,Acompanhamento
 2021-12-01,Acompanhamento
 2021-12-06,Acompanhamento
