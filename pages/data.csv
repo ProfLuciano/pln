@@ -1,27 +1,27 @@
 data,aula
-2023-05-30,<a href="https://github.com/ProfLuciano/pln/blob/main/slides/intro.pdf">Introdução ao curso</a>
-2023-06-01,<a href="https://github.com/ProfLuciano/pln/blob/main/slides/processamento_texto.pdf">Processamento de texto</a> | <a href="https://github.com/ProfLuciano/pln/blob/main/notebooks/Text_Processing.ipynb">Notebook</a>  
-2023-06-06,<a href="https://github.com/ProfLuciano/pln/blob/main/slides/intro_dl.pdf">Introdução a Redes Neurais</a> | <a href="https://github.com/ProfLuciano/pln/blob/main/notebooks/nn.ipynb">Notebook</a>  
-2023-06-13,<a href="https://github.com/ProfLuciano/pln/blob/main/slides/representation_learning.pdf">Representação de palavras</a> | <a href="https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/keras/text_classification.ipynb">Notebook</a>  
-2023-06-15,<a href="https://github.com/ProfLuciano/pln/blob/main/slides/sequential_models.pdf">Deep Learning: Modelos sequenciais</a> | <a href="https://github.com/tensorflow/text/blob/master/docs/tutorials/text_classification_rnn.ipynb">Notebook</a>  
-2023-06-20,<a href="https://github.com/ProfLuciano/pln/blob/main/slides/chatbot.pdf">Chatbots</a> | <a href="https://github.com/ProfLuciano/pln/blob/main/slides/projeto.pdf">Projeto</a>
-2023-06-22,Acompanhamento
-2023-06-27,Acompanhamento
-2023-06-29,<a href="https://github.com/ProfLuciano/pln/blob/main/slides/info_extraction.pdf">Information Extraction</a> | <a href="https://github.com/ProfLuciano/pln/blob/main/notebooks/ner.ipynb">Notebook</a> 
-2023-07-04,<a href="https://github.com/ProfLuciano/pln/blob/main/slides/lang_modeling.pdf">Language modeling</a> | <a href="https://github.com/ProfLuciano/pln/blob/main/notebooks/lm.ipynb">Notebook</a> 
-2023-07-06,Acompanhamento
-2023-07-11,<a href="https://github.com/ProfLuciano/pln/blob/main/slides/mt.pdf">Machine Translation</a> | <a href="https://www.tensorflow.org/text/tutorials/nmt_with_attention">Notebook</a> 
-2023-07-13,<a href="https://github.com/ProfLuciano/pln/blob/main/slides/bert.pdf">Modelos contextuais (BERT)</a>
-2023-07-18,Acompanhamento 
-2023-07-20,<a href="https://github.com/ProfLuciano/pln/blob/main/slides/text_generation.pdf">Geração Automática de Texto</a> | <a href="https://github.com/ProfLuciano/pln/blob/main/notebooks/text_generation.ipynb">Notebook</a>
-2023-07-25,<a href="https://github.com/ProfLuciano/pln/blob/main/slides/corref_resolution.pdf">Resolução de co-referência</a> (Checkpoint do projeto: classificador e extrator)
-2023-07-27,<a href="https://github.com/ProfLuciano/pln/blob/main/slides/parsing.pdf">Parsing</a> 
-2023-08-01,<a href="https://github.com/ProfLuciano/pln/blob/main/slides/qa.pdf">Q&A</a>
-2023-08-03,Acompanhamento
-2023-08-08,Acompanhamento
-2023-08-10,Acompanhamento
-2023-08-15,Acompanhamento
-2023-08-17,Acompanhamento
-2023-08-22,Acompanhamento
-2023-08-24,Entrega do projeto
-2023-09-05,Final
+2023-10-24,<a href="https://github.com/ProfLuciano/pln/blob/main/slides/intro.pdf">Introdução ao curso</a>
+2023-10-26,<a href="https://github.com/ProfLuciano/pln/blob/main/slides/processamento_texto.pdf">Processamento de texto</a> | <a href="https://github.com/ProfLuciano/pln/blob/main/notebooks/Text_Processing.ipynb">Notebook</a>  
+2023-11-07,<a href="https://github.com/ProfLuciano/pln/blob/main/slides/intro_dl.pdf">Introdução a Redes Neurais</a> | <a href="https://github.com/ProfLuciano/pln/blob/main/notebooks/nn.ipynb">Notebook</a>  
+2023-11-09,<a href="https://github.com/ProfLuciano/pln/blob/main/slides/representation_learning.pdf">Representação de palavras</a> | <a href="https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/keras/text_classification.ipynb">Notebook</a>  
+2023-11-14,<a href="https://github.com/ProfLuciano/pln/blob/main/slides/mt.pdf">Approximated Nearest Neighbors</a>
+2023-11-16,<a href="https://github.com/ProfLuciano/pln/blob/main/slides/sequential_models.pdf">Deep Learning: Modelos sequenciais</a> | <a href="https://github.com/tensorflow/text/blob/master/docs/tutorials/text_classification_rnn.ipynb">Notebook</a>  
+2023-11-21,<a href="https://github.com/ProfLuciano/pln/blob/main/slides/chatbot.pdf">Chatbots</a> | <a href="https://github.com/ProfLuciano/pln/blob/main/slides/projeto.pdf">Projeto</a>
+2023-11-23,Acompanhamento
+2023-11-28,<a href="https://github.com/ProfLuciano/pln/blob/main/slides/info_extraction.pdf">Information Extraction</a> | <a href="https://github.com/ProfLuciano/pln/blob/main/notebooks/ner.ipynb">Notebook</a> 
+2023-12-05,<a href="https://github.com/ProfLuciano/pln/blob/main/slides/lang_modeling.pdf">Language modeling</a> | <a href="https://github.com/ProfLuciano/pln/blob/main/notebooks/lm.ipynb">Notebook</a> 
+2023-12-07,<a href="https://github.com/ProfLuciano/pln/blob/main/slides/mt.pdf">Machine Translation</a> | <a href="https://www.tensorflow.org/text/tutorials/nmt_with_attention">Notebook</a> 
+2023-12-12,<a href="https://github.com/ProfLuciano/pln/blob/main/slides/bert.pdf">Modelos contextuais (BERT)</a> 
+2023-12-14,<a href="https://github.com/ProfLuciano/pln/blob/main/slides/text_generation.pdf">LLMs</a> | <a href="https://github.com/ProfLuciano/pln/blob/main/notebooks/text_generation.ipynb">Notebook</a> 
+2023-07-19,Acompanhamento
+2023-07-21,Acompanhamento
+2024-01-30,<a href="https://github.com/ProfLuciano/pln/blob/main/slides/text_generation.pdf">LLMs</a> 
+2024-02-01,<a href="https://github.com/ProfLuciano/pln/blob/main/slides/corref_resolution.pdf">Resolução de co-referência</a> (Checkpoint do projeto: classificador e extrator)
+2024-02-06,<a href="https://github.com/ProfLuciano/pln/blob/main/slides/parsing.pdf">Parsing</a> 
+2024-02-08,<a href="https://github.com/ProfLuciano/pln/blob/main/slides/qa.pdf">Q&A</a>
+2024-02-15,Acompanhamento
+2024-02-20,Acompanhamento
+2024-02-22,Acompanhamento
+2024-02-27,Acompanhamento
+2024-02-29,Acompanhamento
+2024-03-05,Entrega do projeto
+2023-03-12,Final
