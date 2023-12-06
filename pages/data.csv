@@ -11,7 +11,7 @@ data,aula
 2023-11-28,<a href="https://github.com/ProfLuciano/pln/blob/main/slides/mt.pdf">Machine Translation</a> | <a href="https://www.tensorflow.org/text/tutorials/nmt_with_attention">Notebook</a> 
 2023-11-30,<a href="https://github.com/ProfLuciano/pln/blob/main/slides/bert.pdf">Modelos contextuais (BERT)</a> 
 2023-12-05,Acompanhamento
-2023-12-07,<a href="https://github.com/ProfLuciano/pln/blob/main/slides/text_generation.pdf">LLMs</a> | <a href="https://github.com/ProfLuciano/pln/blob/main/notebooks/text_generation.ipynb">Notebook</a> 
+2023-12-07,<a href="https://github.com/ProfLuciano/pln/blob/main/slides/text_generation.pdf">LLMs</a> | <a href="https://github.com/ProfLuciano/pln/blob/main/notebooks/geracao_de_texto.ipynb">Notebook</a> 
 2023-12-12,<a href="https://github.com/ProfLuciano/pln/blob/main/slides/text_generation.pdf">LLMs</a> 
 2023-12-14,<a href="https://github.com/ProfLuciano/pln/blob/main/slides/qa.pdf">Q&A</a>
 2023-12-19,Acompanhamento
